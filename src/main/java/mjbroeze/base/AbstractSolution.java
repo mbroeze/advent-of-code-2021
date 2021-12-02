@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 
 /**
  * An abstract class intended to be inherited by challenge solutions. Provides methods
- * for loading data. Data for day N is assumed to be in 'resources/dayN/input.txt, where
+ * for loading data. Data for day N is assumed to be in 'resources/dayN/input1.txt, where
  * N is a zero-padded two digit positive integer.
  */
 public class AbstractSolution {

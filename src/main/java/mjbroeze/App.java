@@ -1,6 +1,6 @@
 package mjbroeze;
 
-import mjbroeze.day01.Day1Solution;
+import mjbroeze.day02.Day2Solution;
 
 /**
  * Hello world!
@@ -8,10 +8,9 @@ import mjbroeze.day01.Day1Solution;
  */
 public class App {
     public static void main(String[] args) {
-        Day1Solution solution = new Day1Solution();
+        Day2Solution solution = new Day2Solution();
 
         solution.firstChallenge();
         solution.secondChallenge();
-
     }
 }
