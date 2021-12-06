@@ -5,6 +5,8 @@ import mjbroeze.base.AbstractSolution;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.util.Arrays;
+import java.util.BitSet;
+import java.util.stream.IntStream;
 
 /**
  * The submarine has been making some odd creaking noises, so you ask it to produce a diagnostic report just in case.
@@ -74,9 +76,5 @@ public class Day3Solution extends AbstractSolution {
         }
 
         System.out.println(gammaRate * epsilonRate);
-    }
-
-    public void secondChallenge() {
-
     }
 }
