@@ -8,6 +8,19 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * We're playing bingo with squids!
+ *
+ * The first line of the input file is a comma separated list of numbers representing bingo numbers
+ * called in the order they are listed.
+ *
+ * This is followed by a blank line, and a bingo board until end of file.
+ * A bingo board is five bingo rows, were each row contains five integers separated by whitespace.
+ *
+ * The score of a bingo board is the sum of the remaining number multiplied by the last number called.
+ * Determine the score of the first board to win (in the order listed) given the sequence of numbers
+ * called.
+ */
 public class Day04Challenge1 extends AbstractSolution {
     protected static final int BINGO_BOARD_SIZE = 5;
     protected final int[] bingoNumbers;
