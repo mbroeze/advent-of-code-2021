@@ -46,12 +46,4 @@ public class Day07 extends AbstractSolution {
         System.out.println("Min Position: " + minPosition);
         System.out.println("Min Fuel " + minFuel);
     }
-
-    class PositionCounter {
-        private int[] counter;
-
-        public PositionCounter(int[] positions) {
-
-        }
-    }
 }
