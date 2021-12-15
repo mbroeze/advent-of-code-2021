@@ -1,6 +1,6 @@
-package mjbroeze.day03;
+package solutions.day03;
 
-import mjbroeze.base.AbstractSolution;
+import solutions.base.AbstractSolution;
 
 import java.io.BufferedReader;
 import java.io.IOException;

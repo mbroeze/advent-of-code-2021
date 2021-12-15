@@ -1,7 +1,6 @@
-package mjbroeze.day04;
+package solutions.day04;
 
 import java.io.IOException;
-import java.util.Iterator;
 
 /**
  * This is the same as challenge 1, but we don't want to upset the squid and are playing to lose.

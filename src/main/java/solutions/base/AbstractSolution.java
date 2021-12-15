@@ -1,4 +1,4 @@
-package mjbroeze.base;
+package solutions.base;
 
 import java.io.BufferedReader;
 import java.io.IOException;

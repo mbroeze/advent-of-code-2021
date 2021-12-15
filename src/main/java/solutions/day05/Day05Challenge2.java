@@ -1,4 +1,4 @@
-package mjbroeze.day05;
+package solutions.day05;
 
 import java.io.IOException;
 
