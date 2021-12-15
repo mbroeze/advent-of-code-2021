@@ -23,11 +23,3 @@
 hs_err_pid*
 /target/
 /.idea/
-/src/main/resources/
-/src/main/resources/day01/
-/src/main/resources/day01/input.txt
-/src/main/resources/day02/
-/src/main/resources/day03/
-/src/main/resources/day04/
-/src/main/resources/day05/
-/src/main/resources/day05/input.txt
